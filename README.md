@@ -31,4 +31,4 @@ To receive the message/media, call
 POST Method /sendMedia or send any message/media file to given whatsapp number
 ```
 
-This is for only testing purpose.But for production use you have to take request from Whatsapp Business Provider here [twilio](https://www.twilio.com/whatsapp/request-access) and build with your own whatsapp number.
+This is only for testing purpose. But for production use you have to take request from Whatsapp Business Provider here [twilio](https://www.twilio.com/whatsapp/request-access) and build it with your own whatsapp number.

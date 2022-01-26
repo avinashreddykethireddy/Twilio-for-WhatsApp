@@ -18,10 +18,6 @@
     - Once setup you can paste the public URL (from ngrok) in Sandbox configuration (at WHEN A MESSAGE COMES IN Box) for receiving messages
 
 # Test API Endpoints
-To Send message, call
-```
-POST Method /sendMessage or send Hi message to given whatsapp number
-```
 To send media, call
 ```
 GET Method /sendMedia
